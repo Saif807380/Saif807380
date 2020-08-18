@@ -12,6 +12,12 @@
 
 <h3>⌚️ Recent Activity</h3>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//CommunityOfCoders/Codetracks-Solutions/pull/1) in [CommunityOfCoders/Codetracks-Solutions](https://github.com//CommunityOfCoders/Codetracks-Solutions)
+2. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
+3. 🗣 Commented on [#59](https://github.com//hedythedev/starcli/issues/59) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+4. 🗣 Commented on [#59](https://github.com//hedythedev/starcli/issues/59) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+5. 💪 Opened PR [#22](https://github.com//CommunityOfCoders/COCWebsite/pull/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
+<!--END_SECTION:activity-->
 
 
 
