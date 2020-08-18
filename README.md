@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saif Kazi</h1>
-<h3 align="center">And I like my tests passed 😌</h3>
+<h1 align="center">Hi, I'm Saif Kazi</h1>
+<h3 align="center">And I like my tests passed  🧑🏽‍💻</h3>
 <br>
 
 - 🌱 I’m currently exploring **JavaScript**
