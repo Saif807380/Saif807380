@@ -11,6 +11,7 @@
 <br>
 
 <h3>⌚️ Recent Activity</h3>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//CommunityOfCoders/Codetracks-Solutions/pull/1) in [CommunityOfCoders/Codetracks-Solutions](https://github.com//CommunityOfCoders/Codetracks-Solutions)
 2. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
