@@ -15,7 +15,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif807380&theme=gotham&hide=css,html&layout=compact" alt="Saif807380" height="170" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=saif807380&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="Saif807380" />
+<img src="https://github-readme-stats.vercel.app/api?username=saif807380&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="Saif807380" />   
 </p>
