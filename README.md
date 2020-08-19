@@ -14,9 +14,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
-2. 🎉 Merged PR [#1](https://github.com//CommunityOfCoders/Codetracks-Solutions/pull/1) in [CommunityOfCoders/Codetracks-Solutions](https://github.com//CommunityOfCoders/Codetracks-Solutions)
-3. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
-4. 🗣 Commented on [#59](https://github.com//hedythedev/starcli/issues/59) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
+2. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
+3. 🎉 Merged PR [#1](https://github.com//CommunityOfCoders/Codetracks-Solutions/pull/1) in [CommunityOfCoders/Codetracks-Solutions](https://github.com//CommunityOfCoders/Codetracks-Solutions)
+4. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
 5. 🗣 Commented on [#59](https://github.com//hedythedev/starcli/issues/59) in [hedythedev/starcli](https://github.com//hedythedev/starcli)
 <!--END_SECTION:activity-->
 
