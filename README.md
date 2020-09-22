@@ -13,11 +13,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com//wpilibsuite/frc-docs/issues/841) in [wpilibsuite/frc-docs](https://github.com//wpilibsuite/frc-docs)
-2. 🎉 Merged PR [#1](https://github.com//Saif807380/NewsWebsite/pull/1) in [Saif807380/NewsWebsite](https://github.com//Saif807380/NewsWebsite)
-3. 🎉 Merged PR [#2](https://github.com//Saif807380/NewsWebsite/pull/2) in [Saif807380/NewsWebsite](https://github.com//Saif807380/NewsWebsite)
-4. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#22](https://github.com//CommunityOfCoders/COCWebsite/issues/22) in [CommunityOfCoders/COCWebsite](https://github.com//CommunityOfCoders/COCWebsite)
+1. 💪 Opened PR [#843](https://github.com//wpilibsuite/frc-docs/pull/843) in [wpilibsuite/frc-docs](https://github.com//wpilibsuite/frc-docs)
+2. 🗣 Commented on [#82](https://github.com//codeforcauseorg/codeforcause.org/issues/82) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+3. 🗣 Commented on [#841](https://github.com//wpilibsuite/frc-docs/issues/841) in [wpilibsuite/frc-docs](https://github.com//wpilibsuite/frc-docs)
+4. 🎉 Merged PR [#1](https://github.com//Saif807380/NewsWebsite/pull/1) in [Saif807380/NewsWebsite](https://github.com//Saif807380/NewsWebsite)
+5. 🎉 Merged PR [#2](https://github.com//Saif807380/NewsWebsite/pull/2) in [Saif807380/NewsWebsite](https://github.com//Saif807380/NewsWebsite)
 <!--END_SECTION:activity-->
 
 
