@@ -13,11 +13,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com//codeforcauseorg/codeforcause.org/issues/82) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-2. 🗣 Commented on [#84](https://github.com//codeforcauseorg/codeforcause.org/issues/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-3. 💪 Opened PR [#84](https://github.com//codeforcauseorg/codeforcause.org/pull/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-4. 🗣 Commented on [#82](https://github.com//codeforcauseorg/codeforcause.org/issues/82) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-5. 💪 Opened PR [#843](https://github.com//wpilibsuite/frc-docs/pull/843) in [wpilibsuite/frc-docs](https://github.com//wpilibsuite/frc-docs)
+1. 🗣 Commented on [#84](https://github.com//codeforcauseorg/codeforcause.org/issues/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+2. 🗣 Commented on [#82](https://github.com//codeforcauseorg/codeforcause.org/issues/82) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+3. 🗣 Commented on [#84](https://github.com//codeforcauseorg/codeforcause.org/issues/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+4. 💪 Opened PR [#84](https://github.com//codeforcauseorg/codeforcause.org/pull/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+5. 🗣 Commented on [#82](https://github.com//codeforcauseorg/codeforcause.org/issues/82) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
 <!--END_SECTION:activity-->
 
 
