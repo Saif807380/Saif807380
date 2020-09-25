@@ -13,11 +13,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com//gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+1. 💪 Opened PR [#223](https://github.com//gautamkrishnar/socli/pull/223) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
 2. 🗣 Commented on [#201](https://github.com//gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
-3. 🗣 Commented on [#86](https://github.com//codeforcauseorg/codeforcause.org/issues/86) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-4. 💪 Opened PR [#86](https://github.com//codeforcauseorg/codeforcause.org/pull/86) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
-5. ❌ Closed PR [#84](https://github.com//codeforcauseorg/codeforcause.org/pull/84) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+3. 🗣 Commented on [#201](https://github.com//gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com//gautamkrishnar/socli)
+4. 🗣 Commented on [#86](https://github.com//codeforcauseorg/codeforcause.org/issues/86) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
+5. 💪 Opened PR [#86](https://github.com//codeforcauseorg/codeforcause.org/pull/86) in [codeforcauseorg/codeforcause.org](https://github.com//codeforcauseorg/codeforcause.org)
 <!--END_SECTION:activity-->
 
 
