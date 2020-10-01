@@ -14,9 +14,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
-2. 🗣 Commented on [#223](https://github.com/gautamkrishnar/socli/issues/223) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
-3. 💪 Opened PR [#223](https://github.com/gautamkrishnar/socli/pull/223) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
-4. 🗣 Commented on [#201](https://github.com/gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
+2. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
+3. 🗣 Commented on [#223](https://github.com/gautamkrishnar/socli/issues/223) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
+4. 💪 Opened PR [#223](https://github.com/gautamkrishnar/socli/pull/223) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
 5. 🗣 Commented on [#201](https://github.com/gautamkrishnar/socli/issues/201) in [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli)
 <!--END_SECTION:activity-->
 
