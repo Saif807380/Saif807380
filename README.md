@@ -13,9 +13,9 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
-2. 💪 Opened PR [#27](https://github.com/skekre98/NBA-Search/pull/27) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
-3. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
+1. ❗️ Opened issue [#1](https://github.com/Atharv-Attri/HacktoberFest-Projects/issues/1) in [Atharv-Attri/HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects)
+2. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
+3. 💪 Opened PR [#27](https://github.com/skekre98/NBA-Search/pull/27) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
 4. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
 5. 🗣 Commented on [#23](https://github.com/skekre98/NBA-Search/issues/23) in [skekre98/NBA-Search](https://github.com/skekre98/NBA-Search)
 <!--END_SECTION:activity-->
