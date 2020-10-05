@@ -14,10 +14,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
-2. 🎉 Merged PR [#11](https://github.com/preprocessy/preprocessy/pull/11) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 🎉 Merged PR [#6](https://github.com/preprocessy/preprocessy/pull/6) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🎉 Merged PR [#7](https://github.com/preprocessy/preprocessy/pull/7) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#8](https://github.com/preprocessy/preprocessy/pull/8) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
+3. 🎉 Merged PR [#11](https://github.com/preprocessy/preprocessy/pull/11) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 🎉 Merged PR [#6](https://github.com/preprocessy/preprocessy/pull/6) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🎉 Merged PR [#7](https://github.com/preprocessy/preprocessy/pull/7) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 
