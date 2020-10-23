@@ -14,10 +14,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
-3. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
-4. 🎉 Merged PR [#11](https://github.com/preprocessy/preprocessy/pull/11) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#6](https://github.com/preprocessy/preprocessy/pull/6) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
+5. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
 <!--END_SECTION:activity-->
 
 
