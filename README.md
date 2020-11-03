@@ -13,10 +13,10 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. ❗️ Opened issue [#147](https://github.com/codeforcauseorg/codeforcause.org/issues/147) in [codeforcauseorg/codeforcause.org](https://github.com/codeforcauseorg/codeforcause.org)
 2. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 3. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
+4. 🗣 Commented on [#33](https://github.com/CommunityOfCoders/COCWebsite/issues/33) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 5. 🗣 Commented on [#43](https://github.com/CommunityOfCoders/Inheritance-2020/issues/43) in [CommunityOfCoders/Inheritance-2020](https://github.com/CommunityOfCoders/Inheritance-2020)
 <!--END_SECTION:activity-->
 
