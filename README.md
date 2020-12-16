@@ -11,11 +11,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/CommunityOfCoders/COCWebsite/issues/39) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🎉 Merged PR [#24](https://github.com/preprocessy/preprocessy/pull/24) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 💪 Opened PR [#24](https://github.com/preprocessy/preprocessy/pull/24) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🎉 Merged PR [#23](https://github.com/preprocessy/preprocessy/pull/23) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 💪 Opened PR [#23](https://github.com/preprocessy/preprocessy/pull/23) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 💪 Opened PR [#40](https://github.com/CommunityOfCoders/COCWebsite/pull/40) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. ❗️ Opened issue [#39](https://github.com/CommunityOfCoders/COCWebsite/issues/39) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 🎉 Merged PR [#24](https://github.com/preprocessy/preprocessy/pull/24) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 💪 Opened PR [#24](https://github.com/preprocessy/preprocessy/pull/24) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🎉 Merged PR [#23](https://github.com/preprocessy/preprocessy/pull/23) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
