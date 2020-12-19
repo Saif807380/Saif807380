@@ -11,11 +11,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/CommunityOfCoders/COCWebsite/issues/41) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. ❗️ Opened issue [#25](https://github.com/preprocessy/preprocessy/issues/25) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 2. 🗣 Commented on [#41](https://github.com/CommunityOfCoders/COCWebsite/issues/41) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. 💪 Opened PR [#40](https://github.com/CommunityOfCoders/COCWebsite/pull/40) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. ❗️ Opened issue [#39](https://github.com/CommunityOfCoders/COCWebsite/issues/39) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🎉 Merged PR [#24](https://github.com/preprocessy/preprocessy/pull/24) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 🗣 Commented on [#41](https://github.com/CommunityOfCoders/COCWebsite/issues/41) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 💪 Opened PR [#40](https://github.com/CommunityOfCoders/COCWebsite/pull/40) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. ❗️ Opened issue [#39](https://github.com/CommunityOfCoders/COCWebsite/issues/39) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
