@@ -11,11 +11,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/CommunityOfCoders/COCWebsite/issues/45) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🗣 Commented on [#45](https://github.com/CommunityOfCoders/COCWebsite/issues/45) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. ❗️ Opened issue [#46](https://github.com/CommunityOfCoders/COCWebsite/issues/46) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. 🗣 Commented on [#45](https://github.com/CommunityOfCoders/COCWebsite/issues/45) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. ❗️ Opened issue [#25](https://github.com/preprocessy/preprocessy/issues/25) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 🗣 Commented on [#48](https://github.com/CommunityOfCoders/COCWebsite/issues/48) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#49](https://github.com/CommunityOfCoders/COCWebsite/issues/49) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 🗣 Commented on [#50](https://github.com/CommunityOfCoders/COCWebsite/issues/50) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 🗣 Commented on [#50](https://github.com/CommunityOfCoders/COCWebsite/issues/50) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 🗣 Commented on [#45](https://github.com/CommunityOfCoders/COCWebsite/issues/45) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
