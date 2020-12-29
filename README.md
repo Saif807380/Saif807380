@@ -11,11 +11,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/CommunityOfCoders/COCWebsite/issues/54) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🗣 Commented on [#54](https://github.com/CommunityOfCoders/COCWebsite/issues/54) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. 💪 Opened PR [#53](https://github.com/CommunityOfCoders/COCWebsite/pull/53) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. ❗️ Opened issue [#52](https://github.com/CommunityOfCoders/COCWebsite/issues/52) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#47](https://github.com/CommunityOfCoders/COCWebsite/issues/47) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. ❗️ Opened issue [#59](https://github.com/CommunityOfCoders/COCWebsite/issues/59) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 🗣 Commented on [#54](https://github.com/CommunityOfCoders/COCWebsite/issues/54) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 🗣 Commented on [#54](https://github.com/CommunityOfCoders/COCWebsite/issues/54) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 💪 Opened PR [#53](https://github.com/CommunityOfCoders/COCWebsite/pull/53) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
