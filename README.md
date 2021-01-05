@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. 🗣 Commented on [#5](https://github.com/gurayyarar/SnipCommand/issues/5) in [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand)
-4. 🗣 Commented on [#25](https://github.com/preprocessy/preprocessy/issues/25) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🗣 Commented on [#65](https://github.com/CommunityOfCoders/COCWebsite/issues/65) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. ❗️ Opened issue [#28](https://github.com/preprocessy/preprocessy/issues/28) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. ❗️ Opened issue [#27](https://github.com/preprocessy/preprocessy/issues/27) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. ❗️ Opened issue [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
