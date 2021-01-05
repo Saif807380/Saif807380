@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/preprocessy/preprocessy/issues/28) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. ❗️ Opened issue [#27](https://github.com/preprocessy/preprocessy/issues/27) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. ❗️ Opened issue [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#58](https://github.com/CommunityOfCoders/COCWebsite/issues/58) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. ❗️ Opened issue [#5](https://github.com/gisty-org/gisty-client/issues/5) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
+2. ❗️ Opened issue [#4](https://github.com/gisty-org/gisty-client/issues/4) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
+3. ❗️ Opened issue [#2](https://github.com/gisty-org/gisty-server/issues/2) in [gisty-org/gisty-server](https://github.com/gisty-org/gisty-server)
+4. ❗️ Opened issue [#1](https://github.com/gisty-org/gisty-server/issues/1) in [gisty-org/gisty-server](https://github.com/gisty-org/gisty-server)
+5. ❗️ Opened issue [#3](https://github.com/gisty-org/gisty-client/issues/3) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
 <!--END_SECTION:activity-->
 
 <br>
