@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/CommunityOfCoders/COCWebsite/issues/72) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🗣 Commented on [#69](https://github.com/CommunityOfCoders/COCWebsite/issues/69) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. ❗️ Opened issue [#30](https://github.com/preprocessy/preprocessy/issues/30) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. ❗️ Opened issue [#5](https://github.com/gisty-org/gisty-client/issues/5) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
-5. ❗️ Opened issue [#4](https://github.com/gisty-org/gisty-client/issues/4) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
+1. 💪 Opened PR [#76](https://github.com/CommunityOfCoders/COCWebsite/pull/76) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#72](https://github.com/CommunityOfCoders/COCWebsite/issues/72) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 🗣 Commented on [#69](https://github.com/CommunityOfCoders/COCWebsite/issues/69) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. ❗️ Opened issue [#30](https://github.com/preprocessy/preprocessy/issues/30) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. ❗️ Opened issue [#5](https://github.com/gisty-org/gisty-client/issues/5) in [gisty-org/gisty-client](https://github.com/gisty-org/gisty-client)
 <!--END_SECTION:activity-->
 
 <br>
