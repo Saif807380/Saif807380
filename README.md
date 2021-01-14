@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/CommunityOfCoders/COCWebsite/issues/47) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. ❗️ Opened issue [#31](https://github.com/preprocessy/preprocessy/issues/31) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 💪 Opened PR [#76](https://github.com/CommunityOfCoders/COCWebsite/pull/76) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. 🗣 Commented on [#72](https://github.com/CommunityOfCoders/COCWebsite/issues/72) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#69](https://github.com/CommunityOfCoders/COCWebsite/issues/69) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. 🎉 Merged PR [#29](https://github.com/preprocessy/preprocessy/pull/29) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 🗣 Commented on [#47](https://github.com/CommunityOfCoders/COCWebsite/issues/47) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. ❗️ Opened issue [#31](https://github.com/preprocessy/preprocessy/issues/31) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 💪 Opened PR [#76](https://github.com/CommunityOfCoders/COCWebsite/pull/76) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 🗣 Commented on [#72](https://github.com/CommunityOfCoders/COCWebsite/issues/72) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
