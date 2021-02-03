@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
-2. 🗣 Commented on [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
-3. ❗️ Opened issue [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
-4. ❗️ Opened issue [#87](https://github.com/CommunityOfCoders/COCWebsite/issues/87) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 💪 Opened PR [#86](https://github.com/CommunityOfCoders/COCWebsite/pull/86) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. 🎉 Merged PR [#9](https://github.com/angelinag/protecc/pull/9) in [angelinag/protecc](https://github.com/angelinag/protecc)
+2. ❗️ Closed issue [#7](https://github.com/angelinag/protecc/issues/7) in [angelinag/protecc](https://github.com/angelinag/protecc)
+3. ❗️ Closed issue [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
+4. 🗣 Commented on [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
+5. ❗️ Opened issue [#8](https://github.com/angelinag/protecc/issues/8) in [angelinag/protecc](https://github.com/angelinag/protecc)
 <!--END_SECTION:activity-->
 
 <br>
