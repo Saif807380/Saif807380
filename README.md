@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/angelinag/protecc/issues/14) in [angelinag/protecc](https://github.com/angelinag/protecc)
-2. 💪 Opened PR [#14](https://github.com/angelinag/protecc/pull/14) in [angelinag/protecc](https://github.com/angelinag/protecc)
-3. ❗️ Opened issue [#12](https://github.com/angelinag/protecc/issues/12) in [angelinag/protecc](https://github.com/angelinag/protecc)
-4. ❗️ Opened issue [#11](https://github.com/angelinag/protecc/issues/11) in [angelinag/protecc](https://github.com/angelinag/protecc)
-5. ❗️ Opened issue [#10](https://github.com/angelinag/protecc/issues/10) in [angelinag/protecc](https://github.com/angelinag/protecc)
+1. 💪 Opened PR [#16](https://github.com/angelinag/protecc/pull/16) in [angelinag/protecc](https://github.com/angelinag/protecc)
+2. 🗣 Commented on [#14](https://github.com/angelinag/protecc/issues/14) in [angelinag/protecc](https://github.com/angelinag/protecc)
+3. 💪 Opened PR [#14](https://github.com/angelinag/protecc/pull/14) in [angelinag/protecc](https://github.com/angelinag/protecc)
+4. ❗️ Opened issue [#12](https://github.com/angelinag/protecc/issues/12) in [angelinag/protecc](https://github.com/angelinag/protecc)
+5. ❗️ Opened issue [#11](https://github.com/angelinag/protecc/issues/11) in [angelinag/protecc](https://github.com/angelinag/protecc)
 <!--END_SECTION:activity-->
 
 <br>
