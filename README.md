@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/CommunityOfCoders/COCWebsite/issues/106) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. ❗️ Opened issue [#104](https://github.com/CommunityOfCoders/COCWebsite/issues/104) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. ❗️ Opened issue [#103](https://github.com/CommunityOfCoders/COCWebsite/issues/103) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-4. 🎉 Merged PR [#24](https://github.com/angelinag/protecc/pull/24) in [angelinag/protecc](https://github.com/angelinag/protecc)
-5. ❗️ Closed issue [#21](https://github.com/angelinag/protecc/issues/21) in [angelinag/protecc](https://github.com/angelinag/protecc)
+2. 🗣 Commented on [#106](https://github.com/CommunityOfCoders/COCWebsite/issues/106) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. ❗️ Opened issue [#104](https://github.com/CommunityOfCoders/COCWebsite/issues/104) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. ❗️ Opened issue [#103](https://github.com/CommunityOfCoders/COCWebsite/issues/103) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 🎉 Merged PR [#24](https://github.com/angelinag/protecc/pull/24) in [angelinag/protecc](https://github.com/angelinag/protecc)
 <!--END_SECTION:activity-->
 
 <br>
