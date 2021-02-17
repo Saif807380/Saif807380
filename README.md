@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/CommunityOfCoders/COCWebsite/issues/117) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 💪 Opened PR [#1785](https://github.com/pallets/click/pull/1785) in [pallets/click](https://github.com/pallets/click)
-3. ❗️ Opened issue [#39](https://github.com/preprocessy/preprocessy/issues/39) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 💪 Opened PR [#107](https://github.com/CommunityOfCoders/COCWebsite/pull/107) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#104](https://github.com/CommunityOfCoders/COCWebsite/issues/104) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#117](https://github.com/CommunityOfCoders/COCWebsite/issues/117) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+3. 💪 Opened PR [#1785](https://github.com/pallets/click/pull/1785) in [pallets/click](https://github.com/pallets/click)
+4. ❗️ Opened issue [#39](https://github.com/preprocessy/preprocessy/issues/39) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 💪 Opened PR [#107](https://github.com/CommunityOfCoders/COCWebsite/pull/107) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
