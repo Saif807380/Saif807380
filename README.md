@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saif Kazi</h1>
 
-- 🔭 I’m currently working on [preprocessy](https://github.com/preprocessy/preprocessy)
+🔭 I’m currently working on [preprocessy](https://github.com/preprocessy/preprocessy)
 
-- 🌱 I’m currently exploring **Machine Learning**
+🌱 I’m currently exploring **Machine Learning**
 
-- 👨‍💻 Want to know more? Check out my [portfolio](https://www.saif-kazi.tech)
+👨‍💻 Want to know more? Check out my [portfolio](https://www.saif-kazi.tech)
 
-- 💬 Ask me about **Python and Vue**
+💬 Ask me about **Python and Vue**
 
-- 📫 How to reach me **saif1204kazi@gmail.com**
+📫 How to reach me **saif1204kazi@gmail.com**
 
 <br>
 
