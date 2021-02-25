@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1794](https://github.com/pallets/click/pull/1794) in [pallets/click](https://github.com/pallets/click)
-2. 🗣 Commented on [#1773](https://github.com/pallets/click/issues/1773) in [pallets/click](https://github.com/pallets/click)
-3. 🗣 Commented on [#457](https://github.com/pallets/click/issues/457) in [pallets/click](https://github.com/pallets/click)
-4. 🗣 Commented on [#723](https://github.com/pallets/click/issues/723) in [pallets/click](https://github.com/pallets/click)
-5. ❗️ Opened issue [#42](https://github.com/preprocessy/preprocessy/issues/42) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 🗣 Commented on [#1597](https://github.com/pallets/click/issues/1597) in [pallets/click](https://github.com/pallets/click)
+2. 💪 Opened PR [#1794](https://github.com/pallets/click/pull/1794) in [pallets/click](https://github.com/pallets/click)
+3. 🗣 Commented on [#1773](https://github.com/pallets/click/issues/1773) in [pallets/click](https://github.com/pallets/click)
+4. 🗣 Commented on [#457](https://github.com/pallets/click/issues/457) in [pallets/click](https://github.com/pallets/click)
+5. 🗣 Commented on [#723](https://github.com/pallets/click/issues/723) in [pallets/click](https://github.com/pallets/click)
 <!--END_SECTION:activity-->
 
 <br>
