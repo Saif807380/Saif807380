@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. 🗣 Commented on [#1597](https://github.com/pallets/click/issues/1597) in [pallets/click](https://github.com/pallets/click)
-3. 💪 Opened PR [#1794](https://github.com/pallets/click/pull/1794) in [pallets/click](https://github.com/pallets/click)
-4. 🗣 Commented on [#1773](https://github.com/pallets/click/issues/1773) in [pallets/click](https://github.com/pallets/click)
-5. 🗣 Commented on [#457](https://github.com/pallets/click/issues/457) in [pallets/click](https://github.com/pallets/click)
+1. 💪 Opened PR [#127](https://github.com/CommunityOfCoders/COCWebsite/pull/127) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. ❗️ Opened issue [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 🗣 Commented on [#1597](https://github.com/pallets/click/issues/1597) in [pallets/click](https://github.com/pallets/click)
+4. 💪 Opened PR [#1794](https://github.com/pallets/click/pull/1794) in [pallets/click](https://github.com/pallets/click)
+5. 🗣 Commented on [#1773](https://github.com/pallets/click/issues/1773) in [pallets/click](https://github.com/pallets/click)
 <!--END_SECTION:activity-->
 
 <br>
