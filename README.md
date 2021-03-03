@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saif807380/preprocessy/pull/1) in [Saif807380/preprocessy](https://github.com/Saif807380/preprocessy)
-2. ❗️ Opened issue [#44](https://github.com/preprocessy/preprocessy/issues/44) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 💪 Opened PR [#1796](https://github.com/pallets/click/pull/1796) in [pallets/click](https://github.com/pallets/click)
-4. ❗️ Opened issue [#134](https://github.com/CommunityOfCoders/COCWebsite/issues/134) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 💪 Opened PR [#127](https://github.com/CommunityOfCoders/COCWebsite/pull/127) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. 💪 Opened PR [#139](https://github.com/CommunityOfCoders/COCWebsite/pull/139) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🎉 Merged PR [#1](https://github.com/Saif807380/preprocessy/pull/1) in [Saif807380/preprocessy](https://github.com/Saif807380/preprocessy)
+3. ❗️ Opened issue [#44](https://github.com/preprocessy/preprocessy/issues/44) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 💪 Opened PR [#1796](https://github.com/pallets/click/pull/1796) in [pallets/click](https://github.com/pallets/click)
+5. ❗️ Opened issue [#134](https://github.com/CommunityOfCoders/COCWebsite/issues/134) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 <br>
