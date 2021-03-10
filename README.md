@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1809](https://github.com/pallets/click/pull/1809) in [pallets/click](https://github.com/pallets/click)
-2. 🗣 Commented on [#1806](https://github.com/pallets/click/issues/1806) in [pallets/click](https://github.com/pallets/click)
-3. 💪 Opened PR [#1805](https://github.com/pallets/click/pull/1805) in [pallets/click](https://github.com/pallets/click)
-4. 🎉 Merged PR [#50](https://github.com/preprocessy/preprocessy/pull/50) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. ❗️ Closed issue [#46](https://github.com/preprocessy/preprocessy/issues/46) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. ❗️ Opened issue [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+2. ❗️ Opened issue [#2](https://github.com/Saif807380/fellowship-discord-bot/issues/2) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+3. ❗️ Opened issue [#1](https://github.com/Saif807380/fellowship-discord-bot/issues/1) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+4. 💪 Opened PR [#1809](https://github.com/pallets/click/pull/1809) in [pallets/click](https://github.com/pallets/click)
+5. 🗣 Commented on [#1806](https://github.com/pallets/click/issues/1806) in [pallets/click](https://github.com/pallets/click)
 <!--END_SECTION:activity-->
 
 <br>
