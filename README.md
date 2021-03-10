@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-2. ❗️ Opened issue [#2](https://github.com/Saif807380/fellowship-discord-bot/issues/2) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-3. ❗️ Opened issue [#1](https://github.com/Saif807380/fellowship-discord-bot/issues/1) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-4. 💪 Opened PR [#1809](https://github.com/pallets/click/pull/1809) in [pallets/click](https://github.com/pallets/click)
-5. 🗣 Commented on [#1806](https://github.com/pallets/click/issues/1806) in [pallets/click](https://github.com/pallets/click)
+1. ❗️ Opened issue [#6](https://github.com/Saif807380/fellowship-discord-bot/issues/6) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+2. 🎉 Merged PR [#5](https://github.com/Saif807380/fellowship-discord-bot/pull/5) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+3. ❗️ Closed issue [#2](https://github.com/Saif807380/fellowship-discord-bot/issues/2) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+4. 💪 Opened PR [#5](https://github.com/Saif807380/fellowship-discord-bot/pull/5) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+5. 🎉 Merged PR [#4](https://github.com/Saif807380/fellowship-discord-bot/pull/4) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
 <!--END_SECTION:activity-->
 
 <br>
