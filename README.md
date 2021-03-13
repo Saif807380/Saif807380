@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Saif807380/fellowship-discord-bot/issues/6) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-2. 🗣 Commented on [#6](https://github.com/Saif807380/fellowship-discord-bot/issues/6) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-3. 🎉 Merged PR [#52](https://github.com/preprocessy/preprocessy/pull/52) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🎉 Merged PR [#53](https://github.com/preprocessy/preprocessy/pull/53) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#7](https://github.com/Saif807380/fellowship-discord-bot/pull/7) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+1. 🎉 Merged PR [#9](https://github.com/Saif807380/fellowship-discord-bot/pull/9) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+2. 💪 Opened PR [#9](https://github.com/Saif807380/fellowship-discord-bot/pull/9) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+3. ❗️ Closed issue [#6](https://github.com/Saif807380/fellowship-discord-bot/issues/6) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+4. 🗣 Commented on [#6](https://github.com/Saif807380/fellowship-discord-bot/issues/6) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+5. 🎉 Merged PR [#52](https://github.com/preprocessy/preprocessy/pull/52) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
