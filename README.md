@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/preprocessy/preprocessy/pull/57) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. ❗️ Closed issue [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 🗣 Commented on [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🎉 Merged PR [#56](https://github.com/preprocessy/preprocessy/pull/56) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#9](https://github.com/Saif807380/fellowship-discord-bot/pull/9) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+1. 🗣 Commented on [#931](https://github.com/pallets/flask-sqlalchemy/issues/931) in [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
+2. 💪 Opened PR [#931](https://github.com/pallets/flask-sqlalchemy/pull/931) in [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
+3. 🎉 Merged PR [#57](https://github.com/preprocessy/preprocessy/pull/57) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. ❗️ Closed issue [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🗣 Commented on [#43](https://github.com/preprocessy/preprocessy/issues/43) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
