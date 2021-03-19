@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saif807380&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="Saif807380" />   
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saif807380&theme=tokyonight" alt="Saif807380" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saif807380&theme=vue-dark" alt="Saif807380" /></p>
 </p>
 
 <br>
