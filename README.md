@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-2. 🗣 Commented on [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
-3. 🗣 Commented on [#931](https://github.com/pallets/flask-sqlalchemy/issues/931) in [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
-4. 💪 Opened PR [#931](https://github.com/pallets/flask-sqlalchemy/pull/931) in [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
-5. 🎉 Merged PR [#57](https://github.com/preprocessy/preprocessy/pull/57) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. ❗️ Opened issue [#7](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/7) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+2. ❗️ Opened issue [#6](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/6) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+3. ❗️ Opened issue [#5](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/5) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+4. ❗️ Closed issue [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
+5. 🗣 Commented on [#3](https://github.com/Saif807380/fellowship-discord-bot/issues/3) in [Saif807380/fellowship-discord-bot](https://github.com/Saif807380/fellowship-discord-bot)
 <!--END_SECTION:activity-->
 
 <br>
