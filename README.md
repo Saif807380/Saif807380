@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/10) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
-2. ❗️ Opened issue [#9](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/9) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
-3. ❗️ Opened issue [#8](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/8) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
-4. ❗️ Opened issue [#7](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/7) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
-5. ❗️ Opened issue [#6](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/6) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+1. 💪 Opened PR [#11](https://github.com/ShubhankarKG/IssueTrackerDiscord/pull/11) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+2. ❗️ Opened issue [#10](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/10) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+3. ❗️ Opened issue [#9](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/9) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+4. ❗️ Opened issue [#8](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/8) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+5. ❗️ Opened issue [#7](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/7) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
 <!--END_SECTION:activity-->
 
 <br>
