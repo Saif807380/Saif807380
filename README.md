@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2021](https://github.com/pallets/werkzeug/issues/2021) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-2. 💪 Opened PR [#2074](https://github.com/pallets/werkzeug/pull/2074) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-3. 🗣 Commented on [#1971](https://github.com/pallets/werkzeug/issues/1971) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-4. 💪 Opened PR [#11](https://github.com/ShubhankarKG/IssueTrackerDiscord/pull/11) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
-5. ❗️ Opened issue [#10](https://github.com/ShubhankarKG/IssueTrackerDiscord/issues/10) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
+1. 💪 Opened PR [#9](https://github.com/MLH-Fellowship/batch-2-map/pull/9) in [MLH-Fellowship/batch-2-map](https://github.com/MLH-Fellowship/batch-2-map)
+2. 🗣 Commented on [#2021](https://github.com/pallets/werkzeug/issues/2021) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+3. 💪 Opened PR [#2074](https://github.com/pallets/werkzeug/pull/2074) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+4. 🗣 Commented on [#1971](https://github.com/pallets/werkzeug/issues/1971) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+5. 💪 Opened PR [#11](https://github.com/ShubhankarKG/IssueTrackerDiscord/pull/11) in [ShubhankarKG/IssueTrackerDiscord](https://github.com/ShubhankarKG/IssueTrackerDiscord)
 <!--END_SECTION:activity-->
 
 <br>
