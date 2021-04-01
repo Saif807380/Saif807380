@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1829](https://github.com/pallets/click/pull/1829) in [pallets/click](https://github.com/pallets/click)
-2. 🗣 Commented on [#303](https://github.com/pallets/click/issues/303) in [pallets/click](https://github.com/pallets/click)
-3. 💪 Opened PR [#2075](https://github.com/pallets/werkzeug/pull/2075) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
-4. 💪 Opened PR [#9](https://github.com/MLH-Fellowship/batch-2-map/pull/9) in [MLH-Fellowship/batch-2-map](https://github.com/MLH-Fellowship/batch-2-map)
-5. 🗣 Commented on [#2021](https://github.com/pallets/werkzeug/issues/2021) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
+1. 🎉 Merged PR [#59](https://github.com/preprocessy/preprocessy/pull/59) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. ❗️ Closed issue [#25](https://github.com/preprocessy/preprocessy/issues/25) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 💪 Opened PR [#1829](https://github.com/pallets/click/pull/1829) in [pallets/click](https://github.com/pallets/click)
+4. 🗣 Commented on [#303](https://github.com/pallets/click/issues/303) in [pallets/click](https://github.com/pallets/click)
+5. 💪 Opened PR [#2075](https://github.com/pallets/werkzeug/pull/2075) in [pallets/werkzeug](https://github.com/pallets/werkzeug)
 <!--END_SECTION:activity-->
 
 <br>
