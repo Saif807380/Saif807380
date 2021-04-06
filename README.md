@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/preprocessy/preprocessy/pull/54) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. ❗️ Closed issue [#42](https://github.com/preprocessy/preprocessy/issues/42) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. ❗️ Closed issue [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🗣 Commented on [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#63](https://github.com/preprocessy/preprocessy/pull/63) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 💪 Opened PR [#1836](https://github.com/pallets/click/pull/1836) in [pallets/click](https://github.com/pallets/click)
+2. 🎉 Merged PR [#54](https://github.com/preprocessy/preprocessy/pull/54) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. ❗️ Closed issue [#42](https://github.com/preprocessy/preprocessy/issues/42) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. ❗️ Closed issue [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🗣 Commented on [#26](https://github.com/preprocessy/preprocessy/issues/26) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
