@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-2. ❗️ Opened issue [#144](https://github.com/CommunityOfCoders/COCWebsite/issues/144) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. 💪 Opened PR [#1840](https://github.com/pallets/click/pull/1840) in [pallets/click](https://github.com/pallets/click)
-4. 💪 Opened PR [#1836](https://github.com/pallets/click/pull/1836) in [pallets/click](https://github.com/pallets/click)
-5. 🎉 Merged PR [#54](https://github.com/preprocessy/preprocessy/pull/54) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. ❗️ Opened issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+2. ❗️ Opened issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+3. ❗️ Opened issue [#144](https://github.com/CommunityOfCoders/COCWebsite/issues/144) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 💪 Opened PR [#1840](https://github.com/pallets/click/pull/1840) in [pallets/click](https://github.com/pallets/click)
+5. 💪 Opened PR [#1836](https://github.com/pallets/click/pull/1836) in [pallets/click](https://github.com/pallets/click)
 <!--END_SECTION:activity-->
 
 <br>
