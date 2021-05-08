@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#65](https://github.com/preprocessy/preprocessy/issues/65) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. 🎉 Merged PR [#64](https://github.com/preprocessy/preprocessy/pull/64) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. ❗️ Closed issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-4. ❗️ Closed issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-5. ❗️ Opened issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+1. 🎉 Merged PR [#66](https://github.com/preprocessy/preprocessy/pull/66) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 💪 Opened PR [#66](https://github.com/preprocessy/preprocessy/pull/66) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. ❗️ Opened issue [#65](https://github.com/preprocessy/preprocessy/issues/65) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 🎉 Merged PR [#64](https://github.com/preprocessy/preprocessy/pull/64) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. ❗️ Closed issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
 <!--END_SECTION:activity-->
 
 <br>
