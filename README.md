@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-2. ❗️ Closed issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-3. ❗️ Opened issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-4. ❗️ Opened issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
-5. ❗️ Opened issue [#144](https://github.com/CommunityOfCoders/COCWebsite/issues/144) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. 🎉 Merged PR [#64](https://github.com/preprocessy/preprocessy/pull/64) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. ❗️ Closed issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+3. ❗️ Closed issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+4. ❗️ Opened issue [#2](https://github.com/Saif807380/Java-Todo-App/issues/2) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
+5. ❗️ Opened issue [#1](https://github.com/Saif807380/Java-Todo-App/issues/1) in [Saif807380/Java-Todo-App](https://github.com/Saif807380/Java-Todo-App)
 <!--END_SECTION:activity-->
 
 <br>
