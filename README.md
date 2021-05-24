@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/9) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
-2. 🎉 Merged PR [#10](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/10) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
-3. 🎉 Merged PR [#12](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/12) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
-4. 🎉 Merged PR [#11](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/11) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
-5. 🎉 Merged PR [#13](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/13) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
+1. 🎉 Merged PR [#23](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/23) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
+2. 🎉 Merged PR [#6](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/6) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
+3. 🎉 Merged PR [#7](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/7) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
+4. 🎉 Merged PR [#8](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/8) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
+5. 🎉 Merged PR [#9](https://github.com/CommunityOfCoders/Skill-Up-2.0/pull/9) in [CommunityOfCoders/Skill-Up-2.0](https://github.com/CommunityOfCoders/Skill-Up-2.0)
 <!--END_SECTION:activity-->
 
 <br>
