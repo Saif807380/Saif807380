@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#151](https://github.com/CommunityOfCoders/COCWebsite/issues/151) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-2. 🎉 Merged PR [#95](https://github.com/preprocessy/preprocessy/pull/95) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 💪 Opened PR [#94](https://github.com/preprocessy/preprocessy/pull/94) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 💪 Opened PR [#93](https://github.com/preprocessy/preprocessy/pull/93) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. ❗️ Closed issue [#73](https://github.com/preprocessy/preprocessy/issues/73) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 🎉 Merged PR [#96](https://github.com/preprocessy/preprocessy/pull/96) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 🎉 Merged PR [#94](https://github.com/preprocessy/preprocessy/pull/94) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 💪 Opened PR [#96](https://github.com/preprocessy/preprocessy/pull/96) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. ❗️ Opened issue [#151](https://github.com/CommunityOfCoders/COCWebsite/issues/151) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+5. 🎉 Merged PR [#95](https://github.com/preprocessy/preprocessy/pull/95) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
