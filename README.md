@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [preprocessy](https://github.com/preprocessy/preprocessy)
 
-🌱 I’m currently exploring **Machine Learning**
+🌱 I’m currently exploring **Blockchain**
 
 👨‍💻 Want to know more? Check out my [portfolio](https://www.saif-kazi.tech)
 
