@@ -15,11 +15,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#114](https://github.com/preprocessy/preprocessy/pull/114) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. 💪 Opened PR [#114](https://github.com/preprocessy/preprocessy/pull/114) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. ❌ Closed PR [#113](https://github.com/preprocessy/preprocessy/pull/113) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🗣 Commented on [#113](https://github.com/preprocessy/preprocessy/issues/113) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 💪 Opened PR [#113](https://github.com/preprocessy/preprocessy/pull/113) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 🎉 Merged PR [#112](https://github.com/preprocessy/preprocessy/pull/112) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. 🗣 Commented on [#85](https://github.com/preprocessy/preprocessy/issues/85) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 🎉 Merged PR [#115](https://github.com/preprocessy/preprocessy/pull/115) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 💪 Opened PR [#115](https://github.com/preprocessy/preprocessy/pull/115) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. ❗️ Opened issue [#115](https://github.com/rsalmei/alive-progress/issues/115) in [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 <!--END_SECTION:activity-->
 
 <br>
