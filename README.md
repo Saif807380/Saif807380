@@ -19,7 +19,7 @@
 2. 🗣 Commented on [#115](https://github.com/rsalmei/alive-progress/issues/115) in [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 3. 🗣 Commented on [#115](https://github.com/rsalmei/alive-progress/issues/115) in [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 4. 🗣 Commented on [#115](https://github.com/rsalmei/alive-progress/issues/115) in [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
-5. 🎉 Merged PR [#112](https://github.com/preprocessy/preprocessy/pull/112) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🗣 Commented on [#115](https://github.com/rsalmei/alive-progress/issues/115) in [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 <!--END_SECTION:activity-->
 
 <br>
