@@ -8,7 +8,7 @@
 
 💬 Ask me about **Python and React**
 
-📝 I try writing articles [here](https://saif-kazi.tech/blogs)
+📝 I try writing articles [here](https://saif-kazi.netlify.app/blogs)
 
 📫 You can reach me at **saif1204kazi@gmail.com**
 
