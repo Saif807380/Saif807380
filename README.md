@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Kazi</h1>
 
-🔭 I’m currently maintaining [Preprocessy](https://github.com/preprocessy?type=source)
-
-🌱 I’m also exploring **Blockchains and System Design**
-
 👨‍💻 All of my projects are available [here](https://github.com/Saif807380?tab=repositories&type=source)
-
-💬 Ask me about **Python and React**
-
-📝 I try writing articles [here](https://saif-kazi.netlify.app/blogs)
 
 📫 You can reach me at **saif1204kazi@gmail.com**
 
