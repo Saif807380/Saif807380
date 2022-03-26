@@ -4,6 +4,8 @@
 
 📫 You can reach me at **saif1204kazi@gmail.com**
 
+📝 I try to write [saif-kazi.netlify.app/blogs](https://saif-kazi.netlify.app/blogs/)
+
 ⚡ Fun fact **Recursion is best explained by running a VM inside a VM**
 
 <br>
