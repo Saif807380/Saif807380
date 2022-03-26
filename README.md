@@ -13,11 +13,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#140](https://github.com/preprocessy/preprocessy/issues/140) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-2. 🗣 Commented on [#139](https://github.com/preprocessy/preprocessy/issues/139) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 💪 Opened PR [#139](https://github.com/preprocessy/preprocessy/pull/139) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 🎉 Merged PR [#138](https://github.com/preprocessy/preprocessy/pull/138) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. 🎉 Merged PR [#193](https://github.com/CommunityOfCoders/COCWebsite/pull/193) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+1. 💪 Opened PR [#141](https://github.com/preprocessy/preprocessy/pull/141) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+2. ❗️ Opened issue [#140](https://github.com/preprocessy/preprocessy/issues/140) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+3. 🗣 Commented on [#139](https://github.com/preprocessy/preprocessy/issues/139) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+4. 💪 Opened PR [#139](https://github.com/preprocessy/preprocessy/pull/139) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+5. 🎉 Merged PR [#138](https://github.com/preprocessy/preprocessy/pull/138) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
 <!--END_SECTION:activity-->
 
 <br>
