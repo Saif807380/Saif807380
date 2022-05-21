@@ -13,11 +13,11 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1770](https://github.com/education/GitHubGraduation-2022/pull/1770) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-2. ❗️ Opened issue [#147](https://github.com/preprocessy/preprocessy/issues/147) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-3. 🎉 Merged PR [#146](https://github.com/preprocessy/preprocessy/pull/146) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-4. 💪 Opened PR [#145](https://github.com/preprocessy/preprocessy/pull/145) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
-5. ❗️ Opened issue [#144](https://github.com/preprocessy/preprocessy/issues/144) in [preprocessy/preprocessy](https://github.com/preprocessy/preprocessy)
+1. 🎉 Merged PR [#3](https://github.com/Saif807380/NewsWebsite/pull/3) in [Saif807380/NewsWebsite](https://github.com/Saif807380/NewsWebsite)
+2. 🎉 Merged PR [#4](https://github.com/Saif807380/NewsWebsite/pull/4) in [Saif807380/NewsWebsite](https://github.com/Saif807380/NewsWebsite)
+3. 🎉 Merged PR [#5](https://github.com/Saif807380/NewsWebsite/pull/5) in [Saif807380/NewsWebsite](https://github.com/Saif807380/NewsWebsite)
+4. 🎉 Merged PR [#6](https://github.com/Saif807380/NewsWebsite/pull/6) in [Saif807380/NewsWebsite](https://github.com/Saif807380/NewsWebsite)
+5. 💪 Opened PR [#1770](https://github.com/education/GitHubGraduation-2022/pull/1770) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 <!--END_SECTION:activity-->
 
 <br>
